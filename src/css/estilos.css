@@ -25,14 +25,13 @@ main:after{
 .informacoes .logo{
     max-width: 350px;
     filter: invert(0);
-    margin-block-end: 400px;
+    margin-bottom: 300px;
 }
 
 .informacoes .descricao{
     width: 49%;
     font-size: 34px;
-    font-family: fantasy;
-    color:#02611a;
+    color:#61020a;
     line-height: 30px;
 }
 
